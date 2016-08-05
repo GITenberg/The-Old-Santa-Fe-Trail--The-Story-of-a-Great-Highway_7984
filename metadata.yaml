@@ -1,0 +1,39 @@
+_repo: The-Old-Santa-Fe-Trail--The-Story-of-a-Great-Highway_7984
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Buffalo Bill
+    aliases:
+    - Bill, Buffalo
+    - Cody, Buffalo Bill
+    - Cody, William Frederick
+    - Cody, William F. (William Frederick)
+    birthdate: 1846
+    deathdate: 1917
+    gutenberg_agent_id: '4524'
+    url: http://www.gutenberg.org/2009/agents/4524
+    wikipedia: http://en.wikipedia.org/wiki/Buffalo_Bill
+creator:
+  author:
+    agent_name: Inman, Henry
+    birthdate: 1837
+    deathdate: 1899
+    gutenberg_agent_id: '1850'
+    url: http://www.gutenberg.org/2009/agents/1850
+description: ''
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7984'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- West (U.S.)'
+- !lcsh 'New Mexico -- History'
+- !lcc 'F786'
+- !lcsh 'Santa Fe National Historic Trail'
+- GITenberg
+title: 'The Old Santa Fe Trail: The Story of a Great Highway'
+url: http://www.gutenberg.org/ebooks/7984
