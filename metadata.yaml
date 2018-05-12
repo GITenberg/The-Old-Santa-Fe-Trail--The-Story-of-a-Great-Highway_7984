@@ -1,5 +1,5 @@
 _repo: The-Old-Santa-Fe-Trail--The-Story-of-a-Great-Highway_7984
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   commentator:
     agent_name: Buffalo Bill
@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '4524'
     url: http://www.gutenberg.org/2009/agents/4524
     wikipedia: http://en.wikipedia.org/wiki/Buffalo_Bill
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Inman, Henry
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '1850'
     url: http://www.gutenberg.org/2009/agents/1850
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7984#The-Old-Santa-Fe-Trail--The-Story-of-a-Great-Highway
 gutenberg_issued: '2005-04-01'
 gutenberg_type: Text
 identifiers:
